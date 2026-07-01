@@ -1,3 +1,3 @@
 # AERIS Intelligence Website
 
-Upload all files to the root of the aerisintelligence.github.io repository.
+Version 0.2 homepage polish. Upload all files to the repository root.
