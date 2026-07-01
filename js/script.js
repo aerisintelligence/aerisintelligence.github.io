@@ -1,1 +1,1 @@
-const toggle=document.querySelector('.mobile-toggle');const links=document.querySelector('.nav-links');if(toggle&&links){toggle.addEventListener('click',()=>links.classList.toggle('open'));}document.getElementById('year')?.append(new Date().getFullYear());
+const t=document.querySelector('.mobile-toggle'),l=document.querySelector('.nav-links');if(t&&l)t.addEventListener('click',()=>l.classList.toggle('open'));document.getElementById('year')?.append(new Date().getFullYear());
